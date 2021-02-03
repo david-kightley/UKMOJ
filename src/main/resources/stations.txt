@@ -1,0 +1,7 @@
+ID,Name,Zones
+1,Holborn,1
+2,Earl’s Court,12
+3,Wimbledon,3
+4,Hammersmith,2
+5,Chelsea,2
+328,BUS,0
